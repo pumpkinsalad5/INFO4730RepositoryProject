@@ -1,7 +1,7 @@
 # INFO4730RepositoryProject
 
 This repository includes 5 datasets and their metadata. The datasets contain product data for newly reported drugs in the Medicaid Drug Rebate Program. 
-The datasets are sorted by month and include the metadata in a correlating folder. <br>
+The datasets are in a full collection with a metadata folder, but they are also sorted by month and include the metadata in a correlating folder. <br>
 
 The 5 datasets cover these dates:<br>
 - 01/20/25 to 01/26/25
